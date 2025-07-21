@@ -14,5 +14,7 @@ user_pref("browser.tabs.allow_transparent_browser", false);
 
 /* (可选项 | OPTIONAL) */
 
-user_pref("gwfox.plus", false);
-/*user_pref("widget.macos.native-context-menus", true);*/
+user_pref("gwfox.plus", true);
+user_pref("widget.macos.native-context-menus", true);
+user_pref("widget.macos.native-context-menus", true);
+user_pref("browser.theme.native-theme", true);
